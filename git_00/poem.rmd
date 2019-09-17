@@ -22,6 +22,7 @@ Children three that nestle near,
 Eager eye and willing ear,  
 
 
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 Before man came to blow it right  
@@ -32,15 +33,14 @@ Man came to tell it what was wrong:
 
 
 
-
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 "The sun was shining on the sea,  
-      Shining with all his might:  
+Shining with all his might:  
 He did his very best to make  
-      The billows smooth and bright —  
+The billows smooth and bright —  
 And this was odd, because it was  
-      The middle of the night.  
+The middle of the night.  
 
 The moon was shining sulkily,  
 Because she thought the sun  
@@ -59,3 +59,4 @@ Then leaf subsides to leaf.
 So Eden sank to grief,  
 So dawn goes down to day.  
 Nothing gold can stay.  
+
